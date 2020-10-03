@@ -1,0 +1,20 @@
+*{margin: 0;padding:0;box-sizing: border-box;}
+
+.heading {
+    color:#800080;
+    text-transform: capitalize;
+    text-align: center;
+    font-weight: 600;
+    margin:50px;
+    text-shadow: 0px 2px 4px red;
+}
+.mydiv{
+    display: flex;
+    justify-content: center;
+}
+
+.mydiv img{
+    width:auto;
+    height:auto;
+    border: 2px solid blue;
+}
